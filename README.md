@@ -1,2 +1,2 @@
-# snake
-Simple snake game built with html &amp; JS
+# Snake
+Not published on a website, but you can copy and run locally
